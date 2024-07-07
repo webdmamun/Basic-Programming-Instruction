@@ -55,14 +55,4 @@ To master HTML comprehensively, you should focus on the following key topics:
    - Using `<canvas>` for drawing graphics.
    - Using `<video>` and `<audio>` for media content.
 
-### 13. **Best Practices**
-   - Writing clean, readable, and maintainable HTML code.
-   - Ensuring cross-browser compatibility.
-   - Validating HTML code for errors and accessibility issues.
-
-### 14. **Accessibility**
-   - Implementing ARIA (Accessible Rich Internet Applications) landmarks and roles.
-   - Using alt attributes for images.
-   - Ensuring forms are accessible.
-
 Focusing on these topics will give you a strong foundation in HTML and prepare you to build modern, responsive, and accessible web pages.
